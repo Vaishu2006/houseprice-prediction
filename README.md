@@ -56,3 +56,8 @@ venv\Scripts\activate
 pip install -r requirements.txt
 python src/train_model.py
 streamlit run app/app.py
+
+## 🔗 Live Demo
+👉 https://houseprice-prediction-xywbb2xlwus5vda6o9nbhv.streamlit.app/
+
+
